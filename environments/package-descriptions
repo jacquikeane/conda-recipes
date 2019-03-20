@@ -164,6 +164,7 @@ shapeit	Estimation of haplotypes (phasing) from genotype or sequencing data
 shovill	Microbial assembly pipeline for Illumina paired-end reads
 sibelia	Genome comparison via de Bruijn graph
 sip	Automatically builds python bindings for C and C++
+ska	Split Kmer Analysis
 skesa	Strategic Kmer Extension for Scrupulous assemblies
 smalt	Aligns DNA sequencing reads with a reference genome
 snap	Semi-HMM-based Nucleic Acid Parser – gene prediction tool
