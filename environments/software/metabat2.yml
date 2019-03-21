@@ -1,0 +1,11 @@
+name: metabat2
+channels:
+  - sanger-pathogens
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - libgcc-ng=7.3.0
+  - metabat2=2.12.1
+  - perl=5.26.2
+

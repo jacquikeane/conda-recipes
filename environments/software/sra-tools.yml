@@ -1,0 +1,10 @@
+name: sra-tools
+channels:
+  - sanger-pathogens
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - libgcc-ng=7.3.0
+  - sra-tools=2.9.1_1
+
