@@ -18,7 +18,6 @@ beast
 beast2
 bedtools
 biobambam
-ucsc-blat
 blobtools
 boost
 bowtie
@@ -56,6 +55,7 @@ fastq-join
 fastqc
 faststructure
 fasttree
+fastx_toolkit
 fermi-lite
 filtlong
 finestructure
@@ -100,6 +100,8 @@ mcl
 megahit
 meme
 merlin
+metabat2
+metagene_annotator
 metavelvet
 metaxa
 minialign
@@ -164,6 +166,7 @@ shapeit
 shovill
 sibelia
 sip
+ska
 skesa
 smalt
 snap
@@ -176,6 +179,7 @@ spades
 sparsehash
 spydrpick
 squid
+sra-tools
 ssu-align
 stacks
 star
@@ -194,6 +198,8 @@ trimal
 trimmomatic
 trinity
 trnascan-se
+ucsc-blat
+ucsc-chainnet
 varscan
 vcflib
 vcftools
